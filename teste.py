@@ -1,5 +1,5 @@
-#numeros
-'''
+
+'''#numeros
 inteiro = 1
 fracional = 1.5
 equacional = 1+2j
@@ -8,9 +8,6 @@ a = "hello"
 b = " word!"
 #concatenação
 c = a + b
-
-
-
 print(c)'''
 
 #casting
