@@ -25,7 +25,7 @@ y = 'perna'
 print(y in x)'''
 
 # bloco if | else if = elif em python
-
+'''
 x = 5
 y = 8
 
@@ -34,4 +34,17 @@ if y > x:
 elif y == x:
     print('y e x ou x e y são iguais!')
 elif x > y:
-    print('x é maior que y')
+    print('x é maior que y')'''
+
+# operador ternário (encurtando os if/else)
+a = 10
+b = 8
+c = 2
+# if b > a: print('b é maior que a.')
+
+# animhamento de if
+
+if a > b:
+    print("a maior que b.")
+    if a > c:
+        print('a maior que c.')
