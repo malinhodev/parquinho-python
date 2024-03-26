@@ -1,0 +1,5 @@
+print('vamos converter D$ (dolares) para R$ (reais) ')
+dolar = input('quantos dolares vc quer converter? ')
+real = input('quanto está valendo o dolar hoje? ')
+conversao = float(real) * float(dolar)
+print(f'D$ {dolar} vale R$ {conversao} sem a taxa de câmbio.')
