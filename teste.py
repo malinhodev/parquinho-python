@@ -11,7 +11,7 @@ c = a + b
 print(c)'''
 
 # casting
-
+'''
 a = int(2)
 b = int(2.8)
 c = int('2')
@@ -22,4 +22,16 @@ c = int('2')
 x = "pernambuco"
 y = 'perna'
 
-print(y in x)
+print(y in x)'''
+
+# bloco if | else if = elif em python
+
+x = 5
+y = 8
+
+if y > x:
+    print('y é maior do que x')
+elif y == x:
+    print('y e x ou x e y são iguais!')
+elif x > y:
+    print('x é maior que y')
