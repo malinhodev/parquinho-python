@@ -16,4 +16,10 @@ a = int(2)
 b = int(2.8)
 c = int('2')
 
-print(a, b, c)
+# print(a, b, c)
+
+# associação
+x = "pernambuco"
+y = 'perna'
+
+print(y in x)
