@@ -10,7 +10,7 @@ b = " word!"
 c = a + b
 print(c)'''
 
-#casting
+# casting
 
 a = int(2)
 b = int(2.8)
