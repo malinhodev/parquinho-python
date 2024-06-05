@@ -8,13 +8,13 @@ fatorial?
 1! = 1
 """
 print(30 * '-')
-print('vamos avhar o  fatorial do numero')
+print('vamos achar o  fatorial do numero')
 numero = int(input('insira um numero: '))
 
 Fatorial = 1
 
 if numero < 0:
-    print('Não existe fatorial de numeros neagtivos')
+    print('Não existe fatorial de numeros negativos!')
 elif numero == 0:
     print(f'O fatorial de {numero} é 1')
 else:
